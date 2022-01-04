@@ -3,10 +3,12 @@ body {
 }
 
 h1 {
+    font-family: 'Times New Roman', Times, serif;
     color: red;
 }
 
 h2 {
+    font-family: sans-serif;
     color: orange;
 }
 
